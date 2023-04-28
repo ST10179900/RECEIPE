@@ -1,5 +1,4 @@
-# RECEIPE
-[README.md](https://github.com/ST10179900/RECEIPE/files/11355458/README.md)
+
 # Recipe Program
 
 This project is a program that indicates and intstructs how to use a recipe and find recipes.
@@ -15,3 +14,4 @@ The RemoveRecipe function requests the user for the recipe's name before removin
 The DisplayRecipeDetails method asks the user for the name of a recipe and then displays the recipe's specifics, such as the list of ingredients, steps, and total calories. A warning is issued if the total calories surpass 300.
 The ScaleRecipe method requests that the user enter the name of a recipe as well as a new scale factor. The recipe is then scaled by the supplied factor, and the revised details are displayed. The ResetRecipeQuantities method invites the user to input the name of a recipe before resetting the quantities of all ingredients in the recipe to their original values.
 The ClearAllData function asks the user to confirm that they want to erase all data. If the user confirms, all recipes in the RecipeManager are deleted.
+
